@@ -7,7 +7,7 @@ white-space: normal;
 }
 
 .oneword {
-  word-break:keep-all;
+  display: inline-block;
 }
 
 /*
